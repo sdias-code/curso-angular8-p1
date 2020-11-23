@@ -8,3 +8,6 @@
 ## Módulo 2:
  ### Lidando com vários componentes
 
+## Módulo 2:
+ ### Lidando com vários componentes
+
